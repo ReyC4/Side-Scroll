@@ -1,4 +1,11 @@
-![image](https://github.com/ReyC4/Side-Scroll/assets/125941312/464ccc4a-4c2b-4728-a8c9-da7c6c2a4fef) ![image](https://github.com/ReyC4/Side-Scroll/assets/125941312/82ec71e6-fbab-463a-87f7-9a61def99843)
+<p align="center">
+  <img width="100%" alt="prostir" src="https://github.com/ReyC4/Side-Scroll/assets/125941312/464ccc4a-4c2b-4728-a8c9-da7c6c2a4fef">
+  </br>
+</p>
+<p align="center">
+  <img width="100%" alt="prostir" src="https://github.com/ReyC4/Side-Scroll/assets/125941312/82ec71e6-fbab-463a-87f7-9a61def99843">
+  </br>
+</p>
 
 ## 🔴About
 My project is a 2D side-scrolling game set in the enchanting and mysterious oak woods. In this game, players navigate through a beautifully crafted forest environment, filled with towering oak trees, dappled sunlight, and hidden secrets. The visual design emphasizes the lush greenery and the serene yet eerie atmosphere of the woods, creating an immersive experience that draws players into the game's world. As players journey through the levels, they encounter various obstacles and challenges that test their skills and reflexes, making for engaging and dynamic gameplay.
@@ -12,9 +19,56 @@ The main character in the game is a ghostly wraith, adding a supernatural elemen
 
 <br>
 
-## 👤Developer
-- Reynata Praja Oktavian - Unity Programmer Main Mechanic
-- Reynata Praja Oktavian - Unity Programmer Game Mechanic 
+## ▶️ Video Gameplay
+<img src="https://github.com/ReyC4/ReyC4/blob/main/GIF/Side%20scroll.gif" alt="1" style="width:50%;height:auto;">
+
+<br>
+
+## 📋 Project Info
+This project using Unity 2022.3.19f1
+
+| **Role** | **Name** | **Development Time** 
+|:-|:-|:-|
+| Game Programmer - Main Mechanic | Reynata | 1 Week |
+| Game Programmer - Game Mechanic | Reynata | 1 Week |
+
+<br>
+
+##  📜Scripts and Features
+|  Script       | Description                                                  |
+| ------------------- | ------------------------------------------------------------ |
+| `GameManager.cs` | Manages the game flow such as change scene, animator, etc. |
+| `CameraFollow.cs` | Handles follow camera with player. |
+| `PlayerMovement.cs`  | Controls the player movement. |
+| `PlayerPosition.cs`  | Manage checkpoint palyer in game. |
+| `etc`  | |
+
+<br>
+
+## 🕹️Game controls
+
+The following controls are bound in-game.
+
+| Key Binding       | Function          |
+| ----------------- | ----------------- |
+| W,A,S,D           | Standard movement |
+| Space             | Jump           |
+
+<br>
+
+## 📂Files description
+
+```
+├── Scroll Ghost                      # In this Folder, containing all the Unity project files, to be opened by a Unity Editor
+   ├── ...
+   ├── Assets                         #  In this Folder, it contains all our code, assets, scenes, etcwas not automatically created by Unity
+      ├── ...
+      ├── 2D                   # In this folder, there are several packages that you must add via Unity Package Manager
+      ├── Scenes                     # In this folder, there are scenes. You can open these scenes to play the game via Unity
+      ├── ....
+   ├── ...
+      
+```
 
 <br>
 
